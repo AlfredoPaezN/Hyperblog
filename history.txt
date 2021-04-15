@@ -6,3 +6,5 @@ probando git
 ahora vamos a contar esta historia 
 
 mide 1.70 según la Cedula pero es falso haha
+
+hoy esta aprendiendo a usa git
