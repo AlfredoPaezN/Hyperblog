@@ -11,4 +11,6 @@ mide 1.70 según la Cedula pero es falso haha
 
 ultimamente quiero trabajar mucho
 
-hoy esta aprendiendo a usa git
+hoy esta aprendiendo a usa git 
+
+mañana nos enfocaremos en la vida laboral
