@@ -1,4 +1,4 @@
-Hola, esta es la histopria de Junior
+Hola, esta es la vida de Junior
 
 jajajaja
 probando git 
@@ -12,3 +12,4 @@ mide 1.70 según la Cedula pero es falso haha
 ultimamente quiero trabajar mucho
 
 hoy esta aprendiendo a usa git
+y obra maestra
